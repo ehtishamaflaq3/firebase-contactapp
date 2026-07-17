@@ -45,6 +45,14 @@ Technology || Purpose
 
 <img width="1142" height="847" alt="image" src="https://github.com/user-attachments/assets/df2f02cb-d315-488d-8067-d7ebb9253fb3" />
 
+## Check Now
+
+<p align="center">
+  <a href="https://firebasecontactappehti.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-View%20Now-ff3d00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
 ## Learning Outcomes
 
 While building this project, I gained practical experience with:
