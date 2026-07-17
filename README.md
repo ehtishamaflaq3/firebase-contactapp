@@ -17,12 +17,13 @@ A modern and responsive Contact Management Application built with **React.js**, 
 ## Tech Stack
 
 Technology || Purpose
--React.js >> Frontend UI 
--Firebase Firestore >> Database 
--Tailwind CSS >> Styling 
--React Icons >> Icons 
--JavaScript (ES6+) >> Application Logic 
--Vite >> Development Environment
+
+- React.js >> Frontend UI 
+- Firebase Firestore >> Database 
+- Tailwind CSS >> Styling 
+- React Icons >> Icons 
+- JavaScript (ES6+) >> Application Logic 
+- Vite >> Development Environment
 
 ## Screenshots
 
