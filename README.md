@@ -69,8 +69,6 @@ While building this project, I gained practical experience with:
 
 ---
 
-## Future Improvements
-
 - Firebase Authentication
 - Contact profile images
 - Form validation
@@ -78,8 +76,6 @@ While building this project, I gained practical experience with:
 - Dark Mode
 - Contact favorites
 - Deploy on Netlify
-
----
 
 ## Author
 
