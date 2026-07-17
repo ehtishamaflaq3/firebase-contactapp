@@ -2,8 +2,6 @@
 
 A modern and responsive Contact Management Application built with **React.js**, **Firebase Firestore**, and **Tailwind CSS**. This project allows users to efficiently manage their contacts through a clean and user-friendly interface with full CRUD functionality.
 
----
-
 ## Features
 
 -  Add new contacts
@@ -16,8 +14,6 @@ A modern and responsive Contact Management Application built with **React.js**, 
 -  Cloud database integration using Firebase Firestore
 -  Clean and modern UI with Tailwind CSS
 
----
-
 ## Tech Stack
 
 Technology | Purpose 
@@ -27,8 +23,6 @@ Technology | Purpose
   React Icons >> Icons 
   JavaScript (ES6+) >> Application Logic 
   Vite >> Development Environment
-
----
 
 ## Screenshots
 
@@ -50,8 +44,6 @@ Technology | Purpose
 
 <img width="1142" height="847" alt="image" src="https://github.com/user-attachments/assets/df2f02cb-d315-488d-8067-d7ebb9253fb3" />
 
----
-
 ## Learning Outcomes
 
 While building this project, I gained practical experience with:
@@ -67,7 +59,7 @@ While building this project, I gained practical experience with:
 - Responsive UI development
 - Clean project organization
 
----
+## Future Improvements
 
 - Firebase Authentication
 - Contact profile images
