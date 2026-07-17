@@ -1,16 +1,94 @@
-# React + Vite
+# Firebase Contact App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Contact Management Application built with **React.js**, **Firebase Firestore**, and **Tailwind CSS**. This project allows users to efficiently manage their contacts through a clean and user-friendly interface with full CRUD functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+-  Add new contacts
+-  View all saved contacts
+-  Update existing contact information
+-  Delete contacts
+-  Real-time search functionality
+-  Loading spinner while fetching data
+-  Responsive design for different screen sizes
+-  Cloud database integration using Firebase Firestore
+-  Clean and modern UI with Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Technology | Purpose |
+|------------|---------|
+| React.js | Frontend UI |
+| Firebase Firestore | Database |
+| Tailwind CSS | Styling |
+| React Icons | Icons |
+| JavaScript (ES6+) | Application Logic |
+| Vite | Development Environment |
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots of your application here.
+
+### 🏠 Home Page
+
+<img width="100%" src="screenshots/home.png" alt="Home Page"/>
+
+### ➕ Add Contact
+
+<img width="100%" src="screenshots/add-contact.png" alt="Add Contact"/>
+
+### ✏️ Edit Contact
+
+<img width="100%" src="screenshots/edit-contact.png" alt="Edit Contact"/>
+
+### 🔍 Search Contact
+
+<img width="100%" src="screenshots/search-contact.png" alt="Search Contact"/>
+
+---
+
+## Learning Outcomes
+
+While building this project, I gained practical experience with:
+
+- React Functional Components
+- React Hooks (`useState`, `useEffect`)
+- Component-based architecture
+- Firebase Firestore CRUD operations
+- State management
+- Props handling
+- Conditional rendering
+- Search filtering
+- Responsive UI development
+- Clean project organization
+
+---
+
+## Future Improvements
+
+- Firebase Authentication
+- Contact profile images
+- Form validation
+- Toast notifications
+- Dark Mode
+- Contact favorites
+- Deploy on Netlify
+
+---
+
+## Author
+
+**Ehtisham Aflaq**
+
+Software Engineering Student | MERN Stack Developer | React & Firebase Enthusiast
+
+---
+ ⭐ Support
+
+If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
