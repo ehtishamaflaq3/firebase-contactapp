@@ -66,7 +66,6 @@ While building this project, I gained practical experience with:
 - Conditional rendering
 - Search filtering
 - Responsive UI development
-- Clean project organization
 
 ## Future Improvements
 
