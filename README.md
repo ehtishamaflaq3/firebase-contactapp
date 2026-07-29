@@ -81,4 +81,4 @@ While building this project, I gained practical experience with:
 
 **Ehtisham Aflaq**
 
-Software Engineering Student | MERN Stack Developer | React & Firebase Enthusiast
+Software Engineering Student | MERN Stack Developer | React & Firebase Enthusiast.
