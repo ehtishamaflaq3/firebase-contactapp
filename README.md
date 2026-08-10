@@ -5,7 +5,7 @@ A modern and responsive Contact Management Application built with **React.js**, 
 ## Features
 
 -  Add new contacts.
--  View all saved contacts
+-  View all saved contacts.
 -  Update existing contact information
 -  Delete contacts
 -  Real-time search functionality
