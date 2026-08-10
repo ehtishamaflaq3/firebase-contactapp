@@ -11,7 +11,7 @@ A modern and responsive Contact Management Application built with **React.js**, 
 -  Real-time search functionality
 -  Loading spinner while fetching data
 -  Responsive design for different screen sizes
--  Cloud database integration using Firebase Firestore
+-  Cloud database integration using Firebase Firestore.
 -  Clean and modern UI with Tailwind CSS.
 
 ## Tech Stack
