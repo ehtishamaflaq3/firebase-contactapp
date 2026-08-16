@@ -1,6 +1,6 @@
 # Firebase Contact App
 
-A modern and responsive Contact Management Application built with **React.js**, **Firebase Firestore**, and **Tailwind CSS**. This project allows users to efficiently manage their contacts through a clean and user-friendly interface with full CRUD functionality
+A modern and responsive Contact Management Application built with **React.js**, **Firebase Firestore**, and **Tailwind CSS**. This project allows users to efficiently manage their contacts through a clean and user-friendly interface with full CRUD functionality.
 
 ## Features
 
