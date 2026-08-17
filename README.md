@@ -65,7 +65,7 @@ While building this project, I gained practical experience with:
 - Props handling
 - Conditional rendering
 - Search filtering
-- Responsive UI development
+- Responsive UI development.
 
 ## Future Improvements
 
