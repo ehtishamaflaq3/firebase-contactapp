@@ -22,8 +22,8 @@ Technology || Purpose
 - Firebase Firestore >> Database 
 - Tailwind CSS >> Styling 
 - React Icons >> Icons 
-- JavaScript (ES6+) >> Application Logic 
-- Vite >> Development Environment
+- JavaScript (ES6+) >> Application Logic.
+- Vite >> Development Environment.
 
 ## Screenshots
 
