@@ -75,7 +75,7 @@ While building this project, I gained practical experience with:
 - Toast notifications
 - Dark Mode
 - Contact favorites
-- Deploy on Netlify
+- Deploy on Netlify.
 
 ## Author
 
