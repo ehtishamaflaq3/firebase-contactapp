@@ -59,8 +59,8 @@ While building this project, I gained practical experience with:
 
 - React Functional Components.
 - React Hooks.
-- Component-based architecture
-- Firebase Firestore CRUD operations
+- Component-based architecture.
+- Firebase Firestore CRUD operations.
 - State management.
 - Props handling.
 - Conditional rendering.
