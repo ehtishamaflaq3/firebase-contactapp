@@ -69,10 +69,10 @@ While building this project, I gained practical experience with:
 
 ## Future Improvements
 
-- Firebase Authentication
-- Contact profile images
-- Form validation
-- Toast notifications
+- Firebase Authentication.
+- Contact profile images.
+- Form validation.
+- Toast notifications.
 - Dark Mode.
 - Contact favorites.
 - Deploy on Netlify.
