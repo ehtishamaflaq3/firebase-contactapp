@@ -73,8 +73,8 @@ While building this project, I gained practical experience with:
 - Contact profile images
 - Form validation
 - Toast notifications
-- Dark Mode
-- Contact favorites
+- Dark Mode.
+- Contact favorites.
 - Deploy on Netlify.
 
 ## Author
