@@ -21,7 +21,7 @@ Technology || Purpose
 - React.js >> Frontend UI 
 - Firebase Firestore >> Database 
 - Tailwind CSS >> Styling 
-- React Icons >> Icons 
+- React Icons >> Icons.
 - JavaScript (ES6+) >> Application Logic.
 - Vite >> Development Environment.
 
