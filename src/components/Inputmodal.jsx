@@ -1,7 +1,9 @@
 import React from "react";
 import { IoMdClose } from "react-icons/io";
 const Inputmodal = ({ isopen, closemodal, children }) => {
+
   return (
+  
     <div>
       {isopen && (
         <div className="fixed inset-0 backdrop-blur-sm items-center flex justify-center">
@@ -17,5 +19,4 @@ const Inputmodal = ({ isopen, closemodal, children }) => {
     </div>
   );
 };
-
 export default Inputmodal;
