@@ -72,7 +72,7 @@ While building this project, I gained practical experience with:
 - Firebase Authentication.
 - Contact profile images.
 - Form validation.
-- Toast notifications.
+- Toast notifications
 - Dark Mode.
 - Contact favorites.
 - Deploy on Netlify.
