@@ -7,7 +7,7 @@ A modern and responsive Contact Management Application built with React.js, Fire
 -  Add new contacts.
 -  View all saved contacts.
 -  Update existing contact information.
--  Delete contacts.
+-  Delete contacts
 -  Real-time search functionality.
 -  Loading spinner while fetching data.
 -  Responsive design for different screen sizes.
