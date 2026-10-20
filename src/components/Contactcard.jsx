@@ -20,8 +20,11 @@ const Contactcard = ({ contact, editContact, getContacts }) => {
   };
 
   return (
+    
     <div key={contact.id}>
+      
       {/* contact viewer */}
+      
       <div className="bg-amber-300 h-20 w-105 ml-4 mt-4 rounded-2xl flex items-center">
         {/* left icon */}
         <div className="h-18 w-20">
