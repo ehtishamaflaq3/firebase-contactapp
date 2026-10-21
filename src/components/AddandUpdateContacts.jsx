@@ -7,7 +7,8 @@ const AddandUpdateContacts = ({
   contact,
   closemodal,
   getContacts,
-}) => {
+}) => 
+  {
   const [name, setname] = useState("");
   const [email, setemail] = useState("");
   // Edit mode mein inputs fill karo
