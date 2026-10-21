@@ -8,7 +8,6 @@ import { MdDelete } from "react-icons/md";
 const Contactcard = ({ contact, editContact, getContacts }) => {
   
   const deletecontact = async (id) => {
-    
     try {
       await deleteDoc(doc(db, "contacts", id));
       alert(`${contact.name} is deleted successfully`);
