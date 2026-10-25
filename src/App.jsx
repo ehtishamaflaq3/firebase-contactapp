@@ -8,8 +8,7 @@ import AddandUpdateContacts from "./components/AddandUpdateContacts";
 
 const App = () => {
   
-  // ----------------states
-  
+  // ----------------states  
   const [contacts, setContacts] = useState([]);
   const [isOpen, setisopen] = useState(false);
   const [editing, setediting] = useState(false);
@@ -18,12 +17,12 @@ const App = () => {
   const [loading, setLoading] = useState(true);
   
   // ----------------functions
-
   const handleEdit = (contact) => {
     setSelectedContact(contact);
     setediting(true);
     openmodal();
   };
+  
   // input handling functions
   const openmodal = () => {
     setisopen(true);
@@ -33,6 +32,7 @@ const App = () => {
     setediting(false);
     setSelectedContact(null);
   };
+  
   // ---------------- ADD CONTACT
   const addContact = () => {
     setediting(false);
@@ -48,6 +48,7 @@ const App = () => {
   const filteredContacts = contacts.filter((contact) =>
     contact.name.toLowerCase().includes(search.toLowerCase()),
   );
+  
   // ---------------fetching functions
   const getContacts = async () => {
     try {
@@ -71,6 +72,7 @@ const App = () => {
   }, []);
   return (
     <div className="bg-gray-700 ml-56 h-193 w-115 ">
+  
       {/* navbar */}
       <div>
         <Navbar
@@ -105,6 +107,7 @@ const App = () => {
           </div>
         )}
       </div>
+
       {/* input modal */}
       <div>
         <Inputmodal closemodal={closemodal} isopen={isOpen}>
