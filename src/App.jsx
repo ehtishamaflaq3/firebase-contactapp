@@ -7,7 +7,9 @@ import Inputmodal from "./components/Inputmodal";
 import AddandUpdateContacts from "./components/AddandUpdateContacts";
 
 const App = () => {
+  
   // ----------------states  
+  
   const [contacts, setContacts] = useState([]);
   const [isOpen, setisopen] = useState(false);
   const [editing, setediting] = useState(false);
@@ -16,6 +18,7 @@ const App = () => {
   const [loading, setLoading] = useState(true);
   
   // ----------------functions
+  
   const handleEdit = (contact) => {
     setSelectedContact(contact);
     setediting(true);
